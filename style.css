@@ -1,0 +1,21 @@
+.bg-image {
+    background: url("pictures/nav.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+}
+
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer {
+    background-color:rgb(59, 141, 189);
+    height: 180px;
+}
+
+.weather {
+  background-color: rgb(28,37,160);
+}
